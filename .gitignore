@@ -1,0 +1,3 @@
+# Project exclude paths
+/hello-security-oauth2-client/target/
+/hello-security-oauth2-server/target/
