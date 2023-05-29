@@ -1,0 +1,14 @@
+#logging:
+#  level:
+#    root: debug
+
+#security:
+#  oauth2:
+#    client:
+#      client-id: fsk
+#      client-secret: fsk123
+#      registered-redirect-uri: http://localhost:8081/callback
+
+validate:
+  codeSwitch: false
+  smsSwitch: false

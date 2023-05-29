@@ -1,0 +1,6 @@
+server:
+  port: 8081
+security:
+  oauth2:
+    resource:
+      jwt.key-value: jwtTest
